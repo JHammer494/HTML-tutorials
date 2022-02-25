@@ -1,10 +1,4 @@
-ol {
-  font-weight:EM;
-}
 
-ol li span {
-  font-weight: Strong;
-}
 .red {
   width: 200px;
   height: 200px;
@@ -18,4 +12,5 @@ div {
 }
 .fit-picture {
   width: 250px;
+  height: 250px;
 }
